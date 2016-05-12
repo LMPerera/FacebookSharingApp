@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">FacebookShareingApp</string>
-    <string name="action_settings">Settings</string>
+    <!--<string name="action_settings">Settings</string>-->
+    <string name="title_activity_facebook_integration">FacebookIntegration</string>
+
+    <string name="facebook_app_id">1733167416900172</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="action_settings">LogOut</string>
+    <string name="title_activity_image_sharing">ImageSharing</string>
+    <string name="title_activity_download_profile_image">DownloadProfileImage</string>
 </resources>
